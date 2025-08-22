@@ -1,0 +1,17 @@
+
+""""FINAL""""
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_Y2FyZWZ1bC1vc3ByZXktMTcuY2xlcmsuYWNjb3VudHMuZGV2JA
+CLERK_SECRET_KEY=sk_test_0FrsuddwbQHjEResdHoJsHitYx9vREl4orELf1pBDo
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=sign-up
+
+DATABASE_URL="postgresql://postgres.jopdmpxoxgwrmoctwmza:zjxPBate7SMexQCH@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres?pgbouncer=true"
+
+DIRECT_URL="postgresql://postgres.jopdmpxoxgwrmoctwmza:zjxPBate7SMexQCH@aws-0-ap-southeast-1.pooler.supabase.com:5432/postgres"
+
+ARCJET_KEY=ajkey_01jq6v8e6sfbg88mbgr2z2s2ke
+
+RESEND_API__KEY=re_SLHmd6Vx_BTtEibELh3gTeQWxi9kYP7Db
+
+GEMINI_API_KEY=AIzaSyCp-XluGmYhTGLE-DZ0851i9SsTTl9dI6c
